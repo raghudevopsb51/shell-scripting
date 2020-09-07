@@ -1,3 +1,3 @@
 ls
-cat
+cat hello.txt
 pwd
